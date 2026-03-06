@@ -1,0 +1,20 @@
+SUPERVISED DATA SET
+Hours_Studied	Attendance (%)	Assignments_Submitted	Pass
+        2	                60	         3            No
+        5	                80	         7           	Yes
+        3	                70           5	          No
+        8	                90           9	          Yes
+        6	                85	         8	          Yes
+        1	                50	         2	          No
+        7	                88	         8	          Yes
+
+
+UNSUPERVISED DATA SET
+Customer_ID	Age	Annual_Income	Spending_Score
+      1	    19	    15000          	39
+      2	    21	    16000	          81
+      3	    20    	17000	          6
+      4	    35	    60000	          50
+      5	    40	    65000	          55
+      6    	23	    20000	          77
+      7    	31	    48000	          40
