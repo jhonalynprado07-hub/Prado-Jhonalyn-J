@@ -1,2 +1,2 @@
 # Prado-Jhonalyn-J
-IPYNB File
+Bayesian Parts
